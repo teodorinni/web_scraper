@@ -1,0 +1,29 @@
+table {
+    text-align: center;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid;
+}
+
+tr {
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+}
+
+.description {
+    width: 100px;
+}
+
+.price {
+    width: 100px;
+}
+
+.link {
+    width: 100px;
+}
